@@ -1,8 +1,8 @@
-# Florida Discord Bot - Terms of Use
+# Provider Discord Bot - Terms of Use
 
 ## Introduction
 
-These terms of use govern the usage of the Meko Discord bot ("Florida") and any associated services provided by the developer. By using the Bot, you agree to comply with these terms.
+These terms of use govern the usage of the Meko Discord bot ("Provider") and any associated services provided by the developer. By using the Bot, you agree to comply with these terms.
 
 ## License and Usage
 
